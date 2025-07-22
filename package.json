@@ -16,5 +16,8 @@
     "url": "https://github.com/gnawwaycon/week3webdev/issues"
   },
   "homepage": "https://github.com/gnawwaycon/week3webdev#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
